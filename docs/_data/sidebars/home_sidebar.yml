@@ -10,9 +10,12 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
+      title: How To Export Code From Notebooks in nbdev
+      url: demo.html
+    - output: web,pdf
       title: Title
       url: module2.html
     output: web
-    title: nbdev_template
+    title: demo_for_david
   output: web
   title: Sidebar

@@ -1,6 +1,7 @@
 {
-  "nbdev_template": {
+  "demo_for_david": {
     "Overview": "/",
+    "How To Export Code From Notebooks in nbdev": "demo.html",
     "Title": "module2.html"
   }
 }
