@@ -16,6 +16,6 @@ entries:
       title: Title
       url: module2.html
     output: web
-    title: demo_for_david
+    title: nbdev_export_demo
   output: web
   title: Sidebar
