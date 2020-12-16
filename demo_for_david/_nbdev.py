@@ -8,7 +8,7 @@ index = {"func": "demo.ipynb",
          "nothing": "module1.ipynb",
          "nothing_again": "module2.ipynb"}
 
-modules = ["default_module.py",
+modules = ["demo.py",
            "module1.py",
            "module2.py"]
 
