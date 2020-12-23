@@ -12,8 +12,8 @@ modules = ["demo.py",
            "module1.py",
            "module2.py"]
 
-doc_url = "https://hamelsmu.github.io/nbdev_export_demo/"
+doc_url = "https://fastai.github.io/nbdev_export_demo/"
 
-git_url = "https://github.com/hamelsmu/nbdev_export_demo/tree/master/"
+git_url = "https://github.com/fastai/nbdev_export_demo/tree/master/"
 
 def custom_doc_links(name): return None

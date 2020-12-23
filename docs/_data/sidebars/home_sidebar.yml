@@ -13,7 +13,10 @@ entries:
       title: How To Export Code From Notebooks in nbdev
       url: demo.html
     - output: web,pdf
-      title: Title
+      title: Module1
+      url: module1.html
+    - output: web,pdf
+      title: Module2
       url: module2.html
     output: web
     title: nbdev_export_demo
